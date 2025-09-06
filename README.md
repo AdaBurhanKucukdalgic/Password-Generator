@@ -12,11 +12,17 @@ Hızlı Kopyalama: Tek tıkla parolayı kopyalayarak kullanım kolaylığı sağ
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
 
 # Kurulum
+
 Projeyi git clone komutuyla bilgisayarınıza indirin:
+
 Bash
+
 git clone https://github.com/AdaBurhanKucukdalgic/Password-Generator.git
+
 Proje dizinine gidin:
+
 Bash
+
 cd Password-Generator
 
 # Kullanım
